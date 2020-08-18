@@ -2,7 +2,7 @@
 
 [pool.pm](https://pool.pm) is a [Cardano](https://cardano.org) blockchain realtime visualization made by [SM₳UG](https://smaug.pool.pm) pool. 
 
-**pool.pm** is not Open Source for now but you can report issues or feature requests here by opening an [issue](https://github.com/SmaugPool/pool.pm/issues/new/choose).
+**pool.pm** is not Open Source for now but you can report bugs or feature requests here by opening an [issue](https://github.com/SmaugPool/pool.pm/issues/new/choose).
 
 # Show your support
 If you like it, you can support the development by delegating or donating to [SM₳UG](https://smaug.pool.pm) pool. 
