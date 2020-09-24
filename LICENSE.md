@@ -1,3 +1,8 @@
+# Humpback whale size (color).svg by Jjw
+Colors slightly modified.  
+https://commons.wikimedia.org/wiki/File:Humpback_whale_size_(color).svg  
+https://creativecommons.org/licenses/by-sa/4.0/deed.en
+
 # Rhincodon typus (Whale Shark) by Tracey Saxby
 Integration and Application Network, University of Maryland Center for Environmental Science  
 https://ian.umces.edu/imagelibrary/displayimage-4236.html  
