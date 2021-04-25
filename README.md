@@ -11,8 +11,8 @@ Thank you :purple_heart:
 
 ## Delegate
 Ticker: **SMAUG**  
-Pool ID: `abacadaba9f12a8b5382fc370e4e7e69421fb59831bb4ecca3a11d9b`
-Bech32: `pool14wk2m2af7y4gk5uzlsmsunn7d9ppldvcxxa5an9r5ywek8330fg`
+* Pool ID: `abacadaba9f12a8b5382fc370e4e7e69421fb59831bb4ecca3a11d9b`
+* Bech32: `pool14wk2m2af7y4gk5uzlsmsunn7d9ppldvcxxa5an9r5ywek8330fg`
 
 ## Donate 
 Cardano ADA:  
